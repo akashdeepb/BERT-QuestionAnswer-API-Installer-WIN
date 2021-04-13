@@ -54,6 +54,7 @@ echo CREATING FILES ...
 curl https://raw.githubusercontent.com/akashdeepb/BERT-QuestionAns-API/main/app.js -o app.js
 curl https://raw.githubusercontent.com/akashdeepb/BERT-QuestionAns-API/main/sec.py -o sec.py
 curl https://raw.githubusercontent.com/akashdeepb/BERT-QuestionAns-API/main/start.py -o start.py
+curl https://raw.githubusercontent.com/akashdeepb/BERT-QuestionAns-API/main/context.txt -o context.txt
 echo ***********************************************
 echo ***********************************************
 echo INSTALLING PACKAGES
