@@ -6,3 +6,6 @@ Probably the most stupidest thing you'll see today, (It's not much but it's hone
 DOUBLE CLICK ON installer (yup, that should be it)
 
 Don't forget, it'll only work on Window (if it'll work)
+
+### How to Run the API ?
+Run `start.py` file using Python on your local machine :)
